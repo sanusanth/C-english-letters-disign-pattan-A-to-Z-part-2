@@ -15,6 +15,7 @@ else if (j>x && j<=n+i-1 && i==n/2+1)
 {
 cout<<"*";
 }
+// Creater By Sanusanth
 else 
 {
 cout<<" ";
