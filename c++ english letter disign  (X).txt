@@ -10,6 +10,7 @@ if (j==i || j==n-i+1)
 {
 cout<<"*";
 }
+// Creater By Sanusanth
 else
 {
 cout<<" ";
